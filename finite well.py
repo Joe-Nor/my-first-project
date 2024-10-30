@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # 定义矩阵的大小
 N = 10 # 设定矩阵大小为 N x N
 j = 1  # 定义第几个能级
-L = 20 # 周期性边界
+L = 200 # 周期性边界
 V = 1 # 势阱深
 a = 1 # 势阱宽
 
